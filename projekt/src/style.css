@@ -1,0 +1,60 @@
+body {
+    background-color: darkgrey;
+    color: white;
+    padding: 40px;
+    font-family: Arial;
+    
+    
+  }
+
+ #container
+  {
+   
+    width: 1000px;
+  }
+
+  .option
+  {
+    float: left;
+    
+    background-color: cornflowerblue;   
+    letter-spacing: 1px;
+    font-size: 20px;
+    padding: 20px;
+    
+  }
+ 
+  .option2
+  {
+    float: left;
+    background-color: cornflowerblue;   
+    letter-spacing: 1px;
+    font-size: 20px;
+    padding: 20px;
+    
+  }
+  
+
+  .option:hover
+  {
+    background-color: brown;
+    cursor: pointer;
+    font-size: 25px;
+    letter-spacing: 2px;
+  }
+
+  .buttonikson{
+    background-color:blue;
+    color: white;
+    clear: both;
+    padding: 20px;
+    border-left: 125px;
+  }
+   .option4{
+    clear: both;
+  }
+
+  .option5{
+    clear: both;
+  }
+   
