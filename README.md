@@ -16,8 +16,8 @@ Projekt jest zrobiony na zaliczenie przedmiotu na studiach.
 Projekt w przyszłości będzie ulepszany
 
 ## Screenshots
+![React2](https://user-images.githubusercontent.com/93713186/162810281-82a8880f-20e7-4116-872a-fdf6a15ddf2f.png)
 
-![React1](https://user-images.githubusercontent.com/93713186/162808096-77f07f83-c18f-4322-928f-785cc8a6246f.png)
 
 ## Contact
 e-mail: pawel.gieldon01@gmail.com
