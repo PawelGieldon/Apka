@@ -2,7 +2,7 @@
 
 
 ## O projekcie
-Aplikacja pobiera dane o postaciach z serialu Gry o Tron. Dodatkowo zaimplementowany jest tam Toggle licznika oraz Toggle buttona który wypisuje dwa Napisy
+Aplikacja pobiera dane o postaciach z serialu Gry o Tron. Dodatkowo zaimplementowany jest tam Toggle licznika oraz Toggle buttona który wypisuje dwa napisy.
 Projekt jest zrobiony na zaliczenie przedmiotu na studiach. 
 
 
