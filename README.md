@@ -1,19 +1,18 @@
 # Apka
 
 
-## O projekcie
-Aplikacja pobiera dane o postaciach z serialu Gry o Tron. Dodatkowo zaimplementowany jest tam Toggle licznika oraz Toggle buttona który wypisuje dwa napisy.
-Projekt jest zrobiony na zaliczenie przedmiotu na studiach. 
+## About Project
+The application downloads data about characters from the Game of Thrones series. Additionally, the Toggle of the counter and the Toggle of the button are implemented there, which prints two strings.
+The project is made to pass the subject in college.
 
 
-## Technologie
+## Technologies
 * Visual Studio Code
-* Język programowania (JavaScript)
-* Biblioteka React
+* Programming Language(JavaScript)
+* Library React
 
 
-## Status Projektu
-Projekt w przyszłości będzie ulepszany
+
 
 ## Screenshots
 ![React2](https://user-images.githubusercontent.com/93713186/162810281-82a8880f-20e7-4116-872a-fdf6a15ddf2f.png)
